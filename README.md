@@ -27,7 +27,6 @@ A website that take us in the past where we can book tickets for our journey on 
 * [Decision Tree Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html)
 * [Random Forest Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
 * [Linear Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
-* [Support Vector Machines](https://scikit-learn.org/stable/modules/svm.html)
 
 ## Deployment Procedure
 We deployed the site on AWS EC2 Instance having Ubuntu as OS.
