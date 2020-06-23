@@ -2,7 +2,7 @@
 A website that take us in the past where we can book tickets for our journey on the largest ship of that time i.e. RMS Titanic . It will tell you the the chances of your Survival, based on your credentials, in case of any accident.
 
 ## Live Link To Website:
-#### [View](http://13.126.105.211:3000/)
+#### [View](http://13.232.26.255:8888/)
 
 ## Colab Link:
 #### [View in Colab](https://colab.research.google.com/drive/1na1ZtJ5TXJCn4vKht7RkAJw1l3u4LSym)
